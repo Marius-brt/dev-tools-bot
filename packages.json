@@ -1,0 +1,9 @@
+[{
+        "name": "NodeJS",
+        "winget": "OpenJS.NodeJS"
+    },
+    {
+        "name": "Git",
+        "winget": "Git.Git"
+    }
+]
