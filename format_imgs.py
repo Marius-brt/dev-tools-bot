@@ -2,7 +2,7 @@ import os
 from PIL import Image
 
 for f in os.listdir("./imgs"):
-    basewidth = 256
+    basewidth = 512
     img = Image.open("./imgs/" + f)
     if img.size[0] == basewidth:
         continue
