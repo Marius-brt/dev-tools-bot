@@ -1,11 +1,11 @@
 [{
         "name": "NodeJS",
         "winget": "OpenJS.NodeJS",
-        "description": "Git is a distributed version control system for tracking changes in source code and coordinating work on those changes among multiple people."
+        "description": "NodeJS is a JavaScript runtime built on Chrome's V8 JavaScript engine."       
     },
     {
         "name": "Git",
         "winget": "Git.Git",
-        "description": "NodeJS is a JavaScript runtime built on Chrome's V8 JavaScript engine."
+        "description": "Git is a distributed version control system for tracking changes in source code and coordinating work on those changes among multiple people."
     }
 ]
