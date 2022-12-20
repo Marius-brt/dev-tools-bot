@@ -1,19 +1,20 @@
-[{
-        "name": "NodeJS",
-        "image": "NodeJS",
-        "winget": "OpenJS.NodeJS",
-        "description": "NodeJS is a JavaScript runtime built on Chrome's V8 JavaScript engine."       
-    },
-    {
-        "name": "Git",
-        "image": "Git",
-        "winget": "Git.Git",
-        "description": "Git is a distributed version control system for tracking changes in source code and coordinating work on those changes among multiple people."
-    },
-    {
-        "name": "NodeJS LTS",
-        "image": "NodeJS",
-        "winget": "OpenJS.NodeJS.LTS",
-        "description": "NodeJS is a JavaScript runtime built on Chrome's V8 JavaScript engine."       
-    }
+[
+  {
+    "name": "NodeJS",
+    "image": "NodeJS",
+    "winget": "OpenJS.NodeJS",
+    "description": "NodeJS is a JavaScript runtime built on Chrome's V8 JavaScript engine."
+  },
+  {
+    "name": "Git",
+    "image": "Git",
+    "winget": "Git.Git",
+    "description": "Git is a distributed version control system for tracking changes in source code and coordinating work on those changes among multiple people."
+  },
+  {
+    "name": "NodeJS LTS",
+    "image": "NodeJS",
+    "winget": "OpenJS.NodeJS.LTS",
+    "description": "NodeJS is a JavaScript runtime built on Chrome's V8 JavaScript engine."
+  }
 ]
